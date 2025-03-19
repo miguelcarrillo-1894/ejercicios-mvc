@@ -1,16 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Controlador;
 
 import Modelo.modelo;
 import Vista.vista;
 
-/**
- *
- * @author SENA
- */
+
 public class controlador {
     private modelo modelo;
     private vista vista;
